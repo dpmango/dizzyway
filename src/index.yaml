@@ -4,9 +4,11 @@ PageList:
 - file: homepage.html
   ready: 100
 - file: catalog.html
-  ready: 20
-- file: card.html
-  ready: 10
+  ready: 1
+- file: card-1.html
+  ready: 1
+- file: card-2.html
+  ready: 1
 - file: collections.html
   ready: 100
 - file: about.html
